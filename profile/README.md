@@ -1,5 +1,8 @@
 # Welcome to NATECIN: Where Your Digital Legacy Lives On
 
+<img width="1157" height="445" alt="image" src="https://github.com/user-attachments/assets/aea5cd81-43e9-4fa6-b19b-4938ddb86116" />
+
+
 NATECIN is an **automated blockchain-based inheritance vault** designed to ensure your digital assets never fade into silence. Your wealth, effort, and legacy deserve continuity—not disappearance.
 
 By leveraging smart contracts and scheduled automation checks (via GitHub Actions or backend cron jobs), NATECIN automatically transfers digital assets to your chosen heir once wallet inactivity surpasses a predefined threshold.
@@ -45,3 +48,4 @@ By leveraging smart contracts and scheduled automation checks (via GitHub Action
 ## 📜 License
 
 MIT License
+
